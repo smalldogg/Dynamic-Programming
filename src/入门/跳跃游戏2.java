@@ -1,9 +1,11 @@
 package 入门;
 
+/**
+ * dp[i] : 跳到 i 位置使用的最少步数
+ * dp[i] = Math.min(dp[i], dp[j] + 1);
+ */
 public class 跳跃游戏2 {
 		public int jump( int[] A ) {
-				//使用最少的步数跳到最后一个位置
-				//使用最少的步数跳到  n - A[i](i ->0..n - 1)
 				if( A == null || A.length == 0 ) {
 						return 0;
 				}

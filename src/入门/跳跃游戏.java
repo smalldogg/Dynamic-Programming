@@ -1,9 +1,10 @@
 package 入门;
 
+/**
+ * dp[i] ：青蛙能不能跳到 i 位置
+ * dp[i] = dp[i - j] && j + a[j] >= i
+ */
 public class 跳跃游戏 {
-		//最后一步：
-		//dp[i]代表青蛙能不能调到 i 这个位置
-		//
 		public boolean canJump( int[] A ) {
 				int n = A.length;
 				if( n <= 0 ) {
