@@ -6,7 +6,7 @@ package 有状态的序列型;
  */
 
 public class 鸡蛋掉落 {
-		public int superEggDrop(int K, int N) {
-			return 0;
-		}
+    public int superEggDrop(int K, int N) {
+        return 0;
+    }
 }

@@ -12,16 +12,16 @@ package 最长序列型;
  * dp[i] = math.max(dp[i], dp[j] + 1);
  */
 public class 最长递增子序列 {
-		public int lengthOfLIS(int[] nums) {
-				int n = nums.length;
-				int res = 1;
-				int[] dp = new int[n];
-				for (int i = 0; i < n; ++i) {
-						dp[i] = 1;
-						for (int j = 0; j < i; ++i)
-								if (nums[i] > nums[j]) dp[i] = Math.max(dp[i], dp[j] + 1);
-						res = Math.max(dp[i], res);
-				}
-				return res;
-		}
+    public int lengthOfLIS(int[] nums) {
+        int n = nums.length;
+        int res = 1;
+        int[] dp = new int[n];
+        for (int i = 0; i < n; ++i) {
+            dp[i] = 1;
+            for (int j = 0; j < i; ++i)
+                if (nums[i] > nums[j]) dp[i] = Math.max(dp[i], dp[j] + 1);
+            res = Math.max(dp[i], res);
+        }
+        return res;
+    }
 }
