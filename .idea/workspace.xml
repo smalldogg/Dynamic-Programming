@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f3dafac-5308-4729-990a-f6f8f8481820" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UnBt0pTpGzd4jwtCmsqHFDCVLu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../redis_api" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="某一天是第几天" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="online.某一天是第几天" />
+      <module name="动态规划" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="online.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.Test" />
+      <module name="动态规划" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="动态规划" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="online.Test" />
+      <module name="动态规划" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="online.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:/tools/jdk_1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="动态规划" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最长序列型.最长回文子串" />
+      <module name="动态规划" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="最长序列型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="编辑距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="双序列.编辑距离" />
+      <module name="动态规划" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="双序列.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="递归调用" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="区间型.递归调用" />
+      <module name="动态规划" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="区间型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="不同的路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="入门.不同的路径" />
+      <module name="动态规划" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="入门.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="递归调用" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="区间型.递归调用" />
+      <module name="动态规划" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="区间型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="递归调用" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="区间型.递归调用" />
+      <module name="动态规划" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="区间型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="硬币排成线" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="博弈型.硬币排成线" />
+      <module name="动态规划" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="博弈型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.某一天是第几天" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.某一天是第几天" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f3dafac-5308-4729-990a-f6f8f8481820" name="Default Changelist" comment="" />
+      <created>1562915692605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562915692605</updated>
+      <workItem from="1562915695003" duration="4000" />
+      <workItem from="1564313907327" duration="2083000" />
+      <workItem from="1564365568773" duration="36000" />
+      <workItem from="1564365634051" duration="9075000" />
+      <workItem from="1564446882726" duration="618000" />
+      <workItem from="1564472373262" duration="11272000" />
+      <workItem from="1564532197890" duration="1198000" />
+      <workItem from="1564562830897" duration="592000" />
+      <workItem from="1564619152907" duration="592000" />
+      <workItem from="1564645529068" duration="702000" />
+      <workItem from="1564651864316" duration="7487000" />
+      <workItem from="1564664433623" duration="1268000" />
+      <workItem from="1564711708064" duration="13055000" />
+      <workItem from="1564792001278" duration="598000" />
+      <workItem from="1564813148141" duration="7161000" />
+      <workItem from="1564832852521" duration="2825000" />
+      <workItem from="1564838792063" duration="337000" />
+      <workItem from="1564839157010" duration="9000" />
+      <workItem from="1564916477548" duration="2433000" />
+      <workItem from="1564966039030" duration="22541000" />
+      <workItem from="1565070631828" duration="440000" />
+      <workItem from="1565072090945" duration="14290000" />
+      <workItem from="1565141248884" duration="6000000" />
+      <workItem from="1565232758392" duration="12844000" />
+      <workItem from="1565268804386" duration="1109000" />
+      <workItem from="1565270653004" duration="326000" />
+      <workItem from="1565310924718" duration="7879000" />
+      <workItem from="1565347647473" duration="686000" />
+      <workItem from="1565402804870" duration="591000" />
+      <workItem from="1565670497037" duration="1821000" />
+      <workItem from="1565742272691" duration="3941000" />
+      <workItem from="1565833068699" duration="594000" />
+      <workItem from="1565944430287" duration="1784000" />
+      <workItem from="1566111987418" duration="2000" />
+      <workItem from="1566112145293" duration="3050000" />
+      <workItem from="1566176194588" duration="1199000" />
+      <workItem from="1566391901111" duration="1514000" />
+      <workItem from="1566435009818" duration="2590000" />
+      <workItem from="1566464730926" duration="308000" />
+      <workItem from="1566465045128" duration="811000" />
+      <workItem from="1566520120530" duration="142000" />
+      <workItem from="1566648827671" duration="597000" />
+      <workItem from="1566737654357" duration="1088000" />
+      <workItem from="1566807198366" duration="612000" />
+      <workItem from="1566990072823" duration="589000" />
+      <workItem from="1567041004601" duration="598000" />
+      <workItem from="1567043827198" duration="1751000" />
+      <workItem from="1567058038982" duration="60000" />
+      <workItem from="1567058133974" duration="1343000" />
+      <workItem from="1567164764816" duration="2205000" />
+      <workItem from="1567218581819" duration="14000" />
+      <workItem from="1567596673046" duration="1624000" />
+      <workItem from="1567648578336" duration="21000" />
+      <workItem from="1568031095193" duration="1239000" />
+      <workItem from="1568596134429" duration="602000" />
+      <workItem from="1569064618933" duration="2618000" />
+      <workItem from="1569132336554" duration="2077000" />
+      <workItem from="1569199416759" duration="18000" />
+      <workItem from="1569414621499" duration="1418000" />
+      <workItem from="1569460781655" duration="613000" />
+      <workItem from="1569476958942" duration="598000" />
+      <workItem from="1569497121544" duration="598000" />
+      <workItem from="1569543589486" duration="608000" />
+      <workItem from="1571123317016" duration="2049000" />
+      <workItem from="1571132432306" duration="601000" />
+      <workItem from="1572165441492" duration="599000" />
+      <workItem from="1572172252414" duration="1886000" />
+      <workItem from="1572345046777" duration="3000" />
+      <workItem from="1575982691545" duration="885000" />
+      <workItem from="1576124463979" duration="94000" />
+      <workItem from="1576125737556" duration="441000" />
+      <workItem from="1576675097232" duration="970000" />
+      <workItem from="1576678952379" duration="879000" />
+      <workItem from="1576747058282" duration="3784000" />
+      <workItem from="1576812016287" duration="397000" />
+      <workItem from="1577104359055" duration="237000" />
+      <workItem from="1588923163170" duration="1798000" />
+      <workItem from="1590501983809" duration="80000" />
+      <workItem from="1593615353879" duration="293000" />
+      <workItem from="1595598779890" duration="37000" />
+      <workItem from="1595670359106" duration="37000" />
+      <workItem from="1596111417435" duration="74000" />
+      <workItem from="1602592928422" duration="141000" />
+      <workItem from="1603272423466" duration="914000" />
+      <workItem from="1605750154111" duration="32000" />
+      <workItem from="1609070433464" duration="409000" />
+      <workItem from="1610699740241" duration="186000" />
+      <workItem from="1611656619609" duration="960000" />
+      <workItem from="1612019983850" duration="2319000" />
+      <workItem from="1612058112420" duration="7465000" />
+      <workItem from="1612494189682" duration="657000" />
+      <workItem from="1612665382996" duration="62000" />
+      <workItem from="1612666058303" duration="218000" />
+      <workItem from="1612881657378" duration="884000" />
+      <workItem from="1612948346049" duration="1796000" />
+      <workItem from="1613635232257" duration="50000" />
+      <workItem from="1613643013999" duration="54000" />
+      <workItem from="1614395317706" duration="1897000" />
+      <workItem from="1614476927267" duration="2705000" />
+    </task>
+    <task id="LOCAL-00001" summary="动态规划提交">
+      <created>1609070546808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609070546808</updated>
+    </task>
+    <task id="LOCAL-00002" summary="补充题目带有分析">
+      <created>1612021330492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612021330492</updated>
+    </task>
+    <task id="LOCAL-00003" summary="补充题目带有分析">
+      <created>1612096277158</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612096277158</updated>
+    </task>
+    <task id="LOCAL-00004" summary="最长序列">
+      <created>1612103980069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612103980069</updated>
+    </task>
+    <task id="LOCAL-00005" summary="最长序列">
+      <created>1612665425794</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612665425794</updated>
+    </task>
+    <task id="LOCAL-00006" summary="跳跃游戏补充转移方程">
+      <created>1612666248468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612666248468</updated>
+    </task>
+    <task id="LOCAL-00007" summary="优化代码">
+      <created>1612883327597</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612883327597</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lf">
+      <created>1614395908902</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614395908902</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="动态规划提交" />
+    <MESSAGE value="补充题目带有分析" />
+    <MESSAGE value="最长序列" />
+    <MESSAGE value="跳跃游戏补充转移方程" />
+    <MESSAGE value="优化代码" />
+    <MESSAGE value="lf" />
+    <option name="LAST_COMMIT_MESSAGE" value="lf" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
